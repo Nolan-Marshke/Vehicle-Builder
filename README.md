@@ -15,6 +15,7 @@ The following technologies were used in this project:
 
 - Typescript
 - JavaScript
+- Node.js
 
 ## Contact Information
 - Email: nmarshke@gmail.com
